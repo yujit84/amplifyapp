@@ -1,6 +1,8 @@
 {
   "name": "amplifyapp",
   "version": "0.1.0",
+  "homepage": "./",
+  
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^1.2.4",
@@ -48,6 +50,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yujit84/amplifyapp/issues"
-  },
-  "homepage": "https://github.com/yujit84/amplifyapp#readme"
+  }
 }
